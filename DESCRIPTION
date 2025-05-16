@@ -1,0 +1,30 @@
+Package: Get
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Leonardo", "Cefalo",
+      email = "leonardo.cefalo@uniba.it",
+      role = c("aut", "cre")
+    )
+  )
+Description: More about what it does (maybe more than one line).
+    Continuation lines should be indented.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    curl,
+    dplyr,
+    httr,
+    magrittr,
+    readr,
+    rlang,
+    rvest,
+    sf,
+    stringr,
+    tidyr,
+    utils,
+    xml2
+RoxygenNote: 7.3.2
