@@ -24,7 +24,6 @@ Imports:
     rvest,
     sf,
     stringr,
-    tidyr,
     utils,
     xml2
 RoxygenNote: 7.3.2
